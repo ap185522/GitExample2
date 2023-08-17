@@ -10,7 +10,7 @@ namespace GitExample.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+         "Ovo sam promenio"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
